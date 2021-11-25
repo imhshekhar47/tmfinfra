@@ -1,0 +1,9 @@
+aws.env
+
+.terraform/
+terraform.tfstate.backup
+.terraform.lock.hcl
+
+.kube/
+amis/
+modules/tmf632
